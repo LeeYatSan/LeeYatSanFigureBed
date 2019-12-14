@@ -1,3 +1,3 @@
 # LeeYatSanFigureBed
 
-[leeyatsan.cn](leeyatsan)'s Figure Bed
+[leeyatsan.cn](leeyatsan.cn)'s Figure Bed
