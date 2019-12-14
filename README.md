@@ -1,2 +1,3 @@
 # LeeYatSanFigureBed
-init
+
+[LeeYatSan.cn](LeeYatSan.cn)'s Figure Bed
