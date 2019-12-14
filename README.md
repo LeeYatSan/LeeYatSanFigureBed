@@ -1,3 +1,3 @@
 # LeeYatSanFigureBed
 
-[www.leeyatsan.cn](www.leeyatsan.cn)'s Figure Bed
+[leeyatsan.cn](https://www.zhihu.com/question/20418177)'s Figure Bed
